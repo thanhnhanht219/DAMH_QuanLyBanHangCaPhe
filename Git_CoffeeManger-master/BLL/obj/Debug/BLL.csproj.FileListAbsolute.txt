@@ -1,0 +1,13 @@
+C:\Users\kingo\Downloads\Git_CoffeeManger-master\BLL\bin\Debug\BLL.dll.config
+C:\Users\kingo\Downloads\Git_CoffeeManger-master\BLL\bin\Debug\BLL.dll
+C:\Users\kingo\Downloads\Git_CoffeeManger-master\BLL\bin\Debug\BLL.pdb
+C:\Users\kingo\Downloads\Git_CoffeeManger-master\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\kingo\Downloads\Git_CoffeeManger-master\BLL\obj\Debug\BLL.dll
+C:\Users\kingo\Downloads\Git_CoffeeManger-master\BLL\obj\Debug\BLL.pdb
+E:\Project\Git_CoffeeManger-master\BLL\bin\Debug\BLL.dll.config
+E:\Project\Git_CoffeeManger-master\BLL\bin\Debug\BLL.dll
+E:\Project\Git_CoffeeManger-master\BLL\bin\Debug\BLL.pdb
+E:\Project\Git_CoffeeManger-master\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Project\Git_CoffeeManger-master\BLL\obj\Debug\BLL.dll
+E:\Project\Git_CoffeeManger-master\BLL\obj\Debug\BLL.pdb
+E:\Project\Git_CoffeeManger-master\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
